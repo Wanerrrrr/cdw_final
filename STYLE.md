@@ -64,7 +64,7 @@ The dark state visually separates close viewing from archive browsing.
 Large project titles use **Mea Culpa**:
 
 ```css
-font-family: "Mea Culpa", cursive;
+font-family: "Kalnia", cursive;
 ```
 
 The script typography introduces an expressive identity to the otherwise systematic archive. It is primarily used for homepage project titles and fixed project-detail titles.
